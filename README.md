@@ -1,0 +1,2 @@
+# pycalc
+open git workshop 
